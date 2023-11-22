@@ -1,5 +1,5 @@
 # 👋 Azule
-This organization is responsable for qt TF2 bots, and many other random named bots in the future.
+This organization is responsible for qt TF2 bots, and many other random named bots in the future.
 
 # What does Azule do?
 * Maintain a stable fork of cathook under an agreement.
